@@ -19,10 +19,8 @@ These classes are:
 
 ![data visualization](https://user-images.githubusercontent.com/62094358/212269954-b95e4e19-7cbc-4f90-8ddd-5fe4ff70400f.png)
 
-![data visualization](https://user-images.githubusercontent.com/62094358/212269980-70726703-17f3-4f66-88f8-6b1759439137.png)
+![data preprocessing](https://user-images.githubusercontent.com/62094358/212270281-2797cc01-788c-4e6e-a634-fd269600a393.png)
 
-![data visualization](https://user-images.githubusercontent.com/62094358/212270008-bfd6bf0b-9994-4af9-826e-d2cbf69c911f.png)
+![data visualization2](https://user-images.githubusercontent.com/62094358/212270359-cba079a1-0b13-4dd8-92eb-1f80fe3c68e8.png)
 
-![data visualization](https://user-images.githubusercontent.com/62094358/212270048-d0777566-fe34-46a8-bfdb-9e16f999d654.png)
-
-
+![building the model](https://user-images.githubusercontent.com/62094358/212270453-e02eb2b7-9a38-45a0-80c2-22dfbbe58e85.png)
